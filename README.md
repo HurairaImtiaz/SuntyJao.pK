@@ -1,2 +1,2 @@
 # SuntyJao.pK
-This is a music desinged Written  by Mr HcakTechLTD.
+This is a music website desinged Written  by Mr HcakTechLTD.
