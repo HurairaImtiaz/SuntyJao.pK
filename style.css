@@ -4,20 +4,27 @@
     color: white;
     font-family: inherit;
     font-size: 30px;
-    padding: 10px;
+    padding: 0px;
 word-spacing: 5px;
+text-align: center;
+}
+.pheader{
+    margin-left: 30px;
+    margin-bottom: 10px;
+    padding: 0px;
+    text-align: center;
 }
 .header{
-    background-color: rgb(30, 30, 243);
-    height: 80px;
+    background-color: rgb(52, 110, 219);
+    height: 85px;
 }
 .container-fluid{
-    background-color: rgb(58, 56, 56);
+    background-color: rgb(255, 255, 255);
     height: 70px;
 
 }
 .headerdivtext{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 25px;
     font-style inherit;
     text-align: center;
